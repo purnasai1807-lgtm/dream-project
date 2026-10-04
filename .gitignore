@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+*.db
+*.sqlite3
+.pytest_cache/
+.idea/
+.vscode/
+node_modules/
+data/readings/*
+data/incidents/*
+!data/readings/.gitkeep
+!data/incidents/.gitkeep
